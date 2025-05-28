@@ -6,7 +6,7 @@ export default function App() {
     <div className='App'>
       <Header />
       <div className='Content'>
-        <p>42 is the answer to everything...</p>
+        <p>Nothing is here yetttt...</p>
       </div>
     </div>
   );
